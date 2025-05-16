@@ -1,2 +1,4 @@
 # removedevicefromintune
 Powershell Script to remove devices from Intune/Entra and clean up Autopilot
+
+Feed it a serial number or device name and it will delete the Device profiles from Intune, Autopilot and Entra
