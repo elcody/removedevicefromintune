@@ -271,7 +271,7 @@ function Remove-DeviceCompletely {
 }
 
 # Usage examples:
- Remove-DeviceCompletely -SerialNumber "4slm3j3"
+ Remove-DeviceCompletely -SerialNumber "Serial Number"
 # OR
  #Remove-DeviceCompletely -DeviceName "Device name"
 # 
